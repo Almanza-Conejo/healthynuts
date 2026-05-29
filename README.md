@@ -82,4 +82,4 @@ healthynuts-site/
 Ver [`BRANDING.md`](BRANDING.md) para paleta de colores, tipografías y uso del logo y la mascota.
 
 ## 💳 (Opcional) Cobro automático con monto
-Si más adelante quieres que Mercado Pago cobre el total exacto automáticamente, se necesita un backend mínimo que cree una *preference* con el Access Token (no se puede exponer en el navegador). Opciones sencillas: una función serverless en Vercel/Netlify/Cloudflare Workers. Avísame y lo añadimos.
+Si más adelante quieres que Mercado Pago cobre el total exacto automáticamente, se necesita un backend mínimo que cree una *preference* con el Access Token (no se puede exponer en el navegador). 
